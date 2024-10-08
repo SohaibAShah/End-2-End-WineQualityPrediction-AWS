@@ -13,6 +13,8 @@
 8. update the main.py
 9. update the app.py
 
+## How to Run?
+### Steps
 
 '''bash
 conda create -n wine python=3.8 -y
