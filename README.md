@@ -16,17 +16,17 @@
 ## How to Run?
 ### Steps
 
-'''bash
+```bash
 conda create -n wine python=3.8 -y
-'''
+```
 
-'''bash
+```bash
 conda activate wine
-'''
+```
 
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
 
 ```bash
 python main.py
